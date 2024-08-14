@@ -5,6 +5,7 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+- 🗓️ Age: 18
 
 <!---
 FunnyStepBKK/FunnyStepBKK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
